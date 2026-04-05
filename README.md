@@ -10,15 +10,15 @@
 
 ---
 
-HEY,
+#HEY,
  WHO I AM ?
 
-* 🎓 Computer Science Student
-* 💻 Aspiring Software Engineer AND Full-Stack Developer
-* ➡️ Currently learning: Java, JavaScript, React, Node.js, with database SQL and MongoDB
-* 💡 Building logic with DSA
-* 🤖 Making hands dirty in AI/ML too
-* 🚀 Building real-world projects
+🎓 Computer Science Student
+💻 Aspiring Software Engineer AND Full-Stack Developer
+➡️ Currently learning: Java, JavaScript, React, Node.js, with database SQL and MongoDB
+💡 Building logic with DSA
+🤖 Making hands dirty in AI/ML too
+🚀 Building real-world projects
 
 ---
 
@@ -40,7 +40,7 @@ HEY,
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-📌 **Currently Learning:**
+📌 **Currently Learning:  **
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
@@ -54,28 +54,28 @@ HEY,
 
 ---
 
-# 💻 REAL-WORLD PROJECTS-
+💻 REAL-WORLD PROJECTS-
 
-* 🔹 Full Stack Web Applications
-* 🔹 Java Backend Systems
-* 🔹 AI/ML Mini Projects
+🔹 Full Stack Web Applications
+🔹 Java Backend Systems
+🔹 AI/ML Mini Projects
 
 ---
 
-# 💻 WORKING ON following Mini-Projects-
+💻 WORKING ON following Mini-Projects-
 
-* ➡️ To-Do App, Tic-tac-toe game, Login System, Notes App, Weather App, Expense Tracker, Java Student System, File Upload System
+➡️ To-Do App, Tic-tac-toe game, Login System, Notes App, Weather App, Expense Tracker, Java Student System, File Upload System
 
 ---
 
 # 🚀 -
 
-* 1. Job Portal System
-* 2. E-Commerce Website
-* 3. Personal Finance Tracker
-* 4. Banking Management System(Spring Boot)
-* 5. Authentication System
-* 6. Real-Time Chat App
+1. Job Portal System
+2. E-Commerce Website
+3. Personal Finance Tracker
+4. Banking Management System(Spring Boot)
+5. Authentication System
+6. Real-Time Chat App
   
 ---
 
