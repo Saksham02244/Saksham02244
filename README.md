@@ -102,6 +102,7 @@
 📊 Data Structures Optimization</br>
 🌐 REST API Development</br>
 </br>
+</br>
 
 ---
 
@@ -111,11 +112,12 @@
 🔹 Java Backend Systems</br>
 🔹 AI/ML Mini Projects
 </br>
+</br>
 
 ---
 
 💻 WORKING ON following Mini-Projects-
-
+</br>
 
 ➡️ To-Do App, Tic-tac-toe game, Login System, Notes App, Weather App, Expense Tracker, Java Student System, File Upload System
 </br>
@@ -130,6 +132,7 @@
 4. Banking Management System(Spring Boot)
 5. Authentication System
 6. Real-Time Chat App
+</br>
 </br>
 
   
@@ -161,6 +164,8 @@
 
 
 💬 *Open to collaborations, internships, and good opportunities!*
+</br>
+</br>
 </br>
 
 ---
