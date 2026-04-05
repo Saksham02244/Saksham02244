@@ -40,14 +40,21 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### 📌 Currently Learning:
+### 📌 Learning with:
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
 ---
 
-# 📚 Currently Learning & Exploring
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+---
+
+# Currently Learning & Exploring
 
 ### 🧠 Core Computer Science
 
@@ -89,25 +96,18 @@
 
 ### 📈 Additional Focus
 
-* ⚡ System Design Basics
-* 🧩 Problem Solving (LeetCode / Coding Platforms)
-* 🏗️ Backend Architecture
-* 📊 Data Structures Optimization
-* 🌐 REST API Development
-
----
-
-### 🗄️ Database
-
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+⚡ System Design Basics
+🧩 Problem Solving (LeetCode / Coding Platforms)
+🏗️ Backend Architecture
+📊 Data Structures Optimization
+🌐 REST API Development
 
 ---
 
 💻 REAL-WORLD PROJECTS-
 
-🔹 Full Stack Web Applications
-🔹 Java Backend Systems
+🔹 Full Stack Web Applications</br>
+🔹 Java Backend Systems</br>
 🔹 AI/ML Mini Projects
 
 ---
@@ -165,9 +165,30 @@
 # 🤝 Connect With Me
 
 <p align="center">
-  <a href="your-linkedin-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/saksham-sable-b9ab2b314/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/Saksham_Sable24" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/sakshamr.sable/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Personal-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="tel:+91XXXXXXXXXX">
+    <img src="https://img.shields.io/badge/Phone-Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+💬 *Open to collaborations, internships, and exciting opportunities!*
 
 ---
 
