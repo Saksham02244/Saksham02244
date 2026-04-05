@@ -110,12 +110,15 @@
 🔹 Full Stack Web Applications</br>
 🔹 Java Backend Systems</br>
 🔹 AI/ML Mini Projects
+</br>
 
 ---
 
 💻 WORKING ON following Mini-Projects-
 
+
 ➡️ To-Do App, Tic-tac-toe game, Login System, Notes App, Weather App, Expense Tracker, Java Student System, File Upload System
+</br>
 
 ---
 
@@ -127,6 +130,8 @@
 4. Banking Management System(Spring Boot)
 5. Authentication System
 6. Real-Time Chat App
+</br>
+
   
 ---
 
@@ -156,6 +161,7 @@
 
 
 💬 *Open to collaborations, internships, and good opportunities!*
+</br>
 
 ---
 
@@ -192,4 +198,6 @@
 
 ---
 
-# ⭐ **"READ, WRITE, LEARN, CODE, CODE, CODE, BUILD AND REPEAT"**
+</br>
+#  **"READ, WRITE & LEARN then do the most important
+        CODE, CODE, CODE and BUILD & then REPEAT the Same💻🚀"**
