@@ -112,7 +112,6 @@
 🔹 Java Backend Systems</br>
 🔹 AI/ML Mini Projects
 </br>
-</br>
 
 ---
 
@@ -132,7 +131,6 @@
 4. Banking Management System(Spring Boot)
 5. Authentication System
 6. Real-Time Chat App
-</br>
 </br>
 
   
