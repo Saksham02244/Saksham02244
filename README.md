@@ -15,7 +15,7 @@
  
 🎓 COMPUTER SCIENCE STUDENT</br>
 💻 Aspiring Software Engineer AND Full-Stack Developer.</br>
-➡️ Currently learning: Java, JavaScript, React, Node.js, with database SQL and MongoDB.</br>
+➡️ Currently learning: Java, JavaScript, React, Node.js, with database MySQL and MongoDB.</br>
 💡 Building logic with DSA.</br>
 🤖 Making hands dirty in AI/ML too.</br>
 🚀 Building real-world projects.</br>
