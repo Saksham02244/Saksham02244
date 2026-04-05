@@ -15,10 +15,10 @@
 # 👋 About Me
 
 * 🎓 Computer Science Student
-* 💻 Backend & Full Stack Developer
+* 💻 Aspiring Software Engineer AND Full-Stack Developer
 * 🤖 Interested in AI/ML
 * 🚀 Building real-world projects
-* 🌱 Currently learning: Java, Node.js, MongoDB
+* 🌱 Currently learning: Java, JavaScript, React, Node.js, with database SQL anD MongoDB. Along with DSA.
 
 ---
 
