@@ -94,12 +94,12 @@
 
 ---
 
-### Additional Focus on-
+### ++ Additional Focus on-
 
-⚡ System Design Basics
-🧩 Problem Solving (LeetCode / Coding Platforms)
-🏗️ Backend Architecture
-📊 Data Structures Optimization
+⚡ System Design Basics</br>
+🧩 Problem Solving (LeetCode / Coding Platforms)</br>
+🏗️ Backend Architecture</br>
+📊 Data Structures Optimization</br>
 🌐 REST API Development
 
 ---
