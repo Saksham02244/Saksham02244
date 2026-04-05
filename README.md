@@ -10,7 +10,7 @@
 
 ---
 
-# HEY, Contributors
+# HEY Contributers,
  WHO I AM ?
  
 🎓 COMPUTER SCIENCE STUDENT</br>
