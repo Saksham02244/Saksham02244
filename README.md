@@ -100,11 +100,12 @@
 🧩 Problem Solving (LeetCode / Coding Platforms)</br>
 🏗️ Backend Architecture</br>
 📊 Data Structures Optimization</br>
-🌐 REST API Development
+🌐 REST API Development</br>
+</br>
 
 ---
 
-💻 REAL-WORLD PROJECTS-
+# 💻 REAL-WORLD PROJECTS-
 
 🔹 Full Stack Web Applications</br>
 🔹 Java Backend Systems</br>
@@ -118,7 +119,7 @@
 
 ---
 
-# 🚀 -
+💻🚀 -
 
 1. Job Portal System
 2. E-Commerce Website
