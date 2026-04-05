@@ -118,7 +118,6 @@
 
 💻 WORKING ON following Mini-Projects-
 </br>
-</br>
 
 ➡️ To-Do App, Tic-tac-toe game, Login System, Notes App, Weather App, Expense Tracker, Java Student System, File Upload System
 </br>
@@ -139,7 +138,6 @@
   
 ---
 
-</br>
 </br>
 
 # 🤝 Connect With Me
