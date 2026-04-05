@@ -10,8 +10,8 @@
 
 ---
 
-# HEY,
-# WHO I AM ?
+HEY,
+ WHO I AM ?
 
 * 🎓 Computer Science Student
 * 💻 Aspiring Software Engineer AND Full-Stack Developer
