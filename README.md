@@ -56,7 +56,7 @@
 
 # Currently Learning & Exploring
 
-### 🧠 Core Computer Science
+### Core Computer Science-
 
 ![DSA](https://img.shields.io/badge/DSA-Algorithms%20%26%20Problem%20Solving-blue?style=for-the-badge)
 ![Operating Systems](https://img.shields.io/badge/Operating%20System-Concepts-important?style=for-the-badge)
@@ -65,28 +65,28 @@
 
 ---
 
-### 🔐 Security & Systems
+### Security & Systems-
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Basics-red?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-Command%20Line-black?style=for-the-badge\&logo=linux)
 
 ---
 
-### 🤖 AI / ML
+### AI / ML-
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Concepts-orange?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-yellow?style=for-the-badge)
 
 ---
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps-
 
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-AWS%2FAzure-blue?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 ---
 
-### 🔧 Tools & Workflow
+### Tools & Workflow-
 
 ![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-Collaboration-black?style=for-the-badge\&logo=github)
@@ -94,7 +94,7 @@
 
 ---
 
-### 📈 Additional Focus
+### Additional Focus on-
 
 ⚡ System Design Basics
 🧩 Problem Solving (LeetCode / Coding Platforms)
