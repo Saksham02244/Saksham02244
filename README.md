@@ -118,6 +118,7 @@
 
 💻 WORKING ON following Mini-Projects-
 </br>
+</br>
 
 ➡️ To-Do App, Tic-tac-toe game, Login System, Notes App, Weather App, Expense Tracker, Java Student System, File Upload System
 </br>
@@ -138,6 +139,8 @@
   
 ---
 
+</br>
+</br>
 # 🤝 Connect With Me
 
 <p align="center">
@@ -204,5 +207,5 @@
 ---
 
 </br>
-#  **"READ, WRITE & LEARN then do the most important
-        CODE, CODE, CODE and BUILD & then REPEAT the Same💻🚀"**
+"READ, WRITE & LEARN then do the most important
+ CODE, CODE, CODE and BUILD & then REPEAT the Same💻🚀"
