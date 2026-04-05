@@ -10,7 +10,7 @@
 
 ---
 
-#HEY,
+# HEY,
  WHO I AM ?
 
 🎓 Computer Science Student
