@@ -12,13 +12,13 @@
 
 # HEY,
  WHO I AM ?
-
-🎓 Computer Science Student
-💻 Aspiring Software Engineer AND Full-Stack Developer
-➡️ Currently learning: Java, JavaScript, React, Node.js, with database SQL and MongoDB
-💡 Building logic with DSA
-🤖 Making hands dirty in AI/ML too
-🚀 Building real-world projects
+ 
+🎓 COMPUTER SCIENCE STUDENT</br>
+💻 Aspiring Software Engineer AND Full-Stack Developer.</br>
+➡️ Currently learning: Java, JavaScript, React, Node.js, with database SQL and MongoDB.</br>
+💡 Building logic with DSA.</br>
+🤖 Making hands dirty in AI/ML too.</br>
+🚀 Building real-world projects.</br>
 
 ---
 
@@ -40,10 +40,60 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-📌 **Currently Learning:  **
+### 📌 Currently Learning:
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+
+---
+
+# 📚 Currently Learning & Exploring
+
+### 🧠 Core Computer Science
+
+![DSA](https://img.shields.io/badge/DSA-Algorithms%20%26%20Problem%20Solving-blue?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating%20System-Concepts-important?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-Networking-critical?style=for-the-badge)
+![Data Communication](https://img.shields.io/badge/Data%20Communication-Concepts-informational?style=for-the-badge)
+
+---
+
+### 🔐 Security & Systems
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Basics-red?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Command%20Line-black?style=for-the-badge\&logo=linux)
+
+---
+
+### 🤖 AI / ML
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Concepts-orange?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-yellow?style=for-the-badge)
+
+---
+
+### ☁️ Cloud & DevOps
+
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-AWS%2FAzure-blue?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
+---
+
+### 🔧 Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Collaboration-black?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+### 📈 Additional Focus
+
+* ⚡ System Design Basics
+* 🧩 Problem Solving (LeetCode / Coding Platforms)
+* 🏗️ Backend Architecture
+* 📊 Data Structures Optimization
+* 🌐 REST API Development
 
 ---
 
