@@ -137,22 +137,8 @@
 ---
 
 
-# 🤝 Connect With Me
+# Connect With Me 🤝 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/saksham-sable-b9ab2b314/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://x.com/Saksham_Sable24" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/sakshamr.sable/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Personal-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-# 🌐 Follow Me
 
 <p align="center">
   <a href="https://github.com/Saksham02244" target="_blank">
@@ -174,7 +160,7 @@
 
 ---
 
-⭐ *If you like my work, consider following me on these platforms!*
+➡️ *If you like my work, consider following me on these platforms!*
 
 
 💬 *Open to collaborations, internships, and good opportunities!*
