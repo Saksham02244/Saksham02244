@@ -152,14 +152,29 @@
     <img src="https://img.shields.io/badge/Instagram-Personal-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+# 🌐 Follow Me
+
+<p align="center">
+  <a href="https://github.com/Saksham02244" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="tel:+91XXXXXXXXXX">
-    <img src="https://img.shields.io/badge/Phone-Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/saksham-sable-b9ab2b314/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/Saksham_Sable24" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/sakshamr.sable/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
+---
+
+⭐ *If you like my work, consider following me on these platforms!*
 
 
 💬 *Open to collaborations, internships, and good opportunities!*
