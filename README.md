@@ -1,4 +1,3 @@
-<img width="1470" height="904" alt="AdobeExpressPhotos_680a6d0872d04b28a821ae1824f6a3a0_CopyEdited" src="https://github.com/user-attachments/assets/ce9d338e-fea6-499b-96f4-3fcc08aa88cd" />
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+SAKSHAM+SABLE;Daily+Hustler;Aspiring+Software+Engineer;Learning+Full+Stack+Development;AI%2FML+Enthusiast;Tech+Learner;Learning+daily" />
