@@ -186,7 +186,7 @@
 
 ---
 
-# 👀 Visitor Counter
+👀 Visitor Counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saksham02244&label=Visitors&color=brightgreen&style=for-the-badge" />
