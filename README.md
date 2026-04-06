@@ -188,9 +188,7 @@
 
 # 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Saksham02244/Saksham02244/output/github-contribution-grid-snake.svg" />
-</p>
+<!-- Remove this section until setup -->
 
 ---
 
