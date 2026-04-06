@@ -1,3 +1,4 @@
+<img width="1470" height="904" alt="AdobeExpressPhotos_680a6d0872d04b28a821ae1824f6a3a0_CopyEdited" src="https://github.com/user-attachments/assets/ce9d338e-fea6-499b-96f4-3fcc08aa88cd" />
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+SAKSHAM+SABLE;Daily+Hustler;Aspiring+Software+Engineer;Learning+Full+Stack+Development;AI%2FML+Enthusiast;Tech+Learner;Learning+daily" />
@@ -172,8 +173,8 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saksham02244&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham02244&theme=tokyonight" />
 </p>
 
 ---
@@ -181,7 +182,7 @@
 # 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham02244&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -189,7 +190,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Saksham02244/Saksham02244/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -197,7 +198,7 @@
 # 👀 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=brightgreen&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Saksham02244&label=Visitors&color=brightgreen&style=for-the-badge" />
 </p>
 
 ---
