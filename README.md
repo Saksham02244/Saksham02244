@@ -1,8 +1,3 @@
-## 🧠 Languages & Tools
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham02244&layout=compact&theme=radical)
-
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey,+I'm+SAKSHAM+SABLE;Daily+Hustler;Aspiring+Software+Engineer;Learning+Full+Stack+Development;AI%2FML+Enthusiast;Tech+Learner;Learning+daily" />
@@ -108,6 +103,13 @@
 🌐 REST API Development</br>
 </br>
 </br>
+
+---
+## 🧠 Languages & Tools
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham02244&layout=compact)
+
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saksham02244&show_icons=true&theme=radical)
 
 ---
 
