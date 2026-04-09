@@ -105,11 +105,16 @@
 </br>
 
 ---
+
 ## 🧠 Languages & Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham02244&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham02244&layout=compact&theme=tokyonight" />
+</p>
 
-![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saksham02244&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saksham02244&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
