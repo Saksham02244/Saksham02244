@@ -204,6 +204,9 @@
 
 ---
 
-</br>
 "READ, WRITE & LEARN then do the most important
- CODE, CODE, CODE and BUILD & then REPEAT the Same💻🚀"
+ CODE, CODE and CODE and BUILD & then REPEAT the Same💻🚀"
+ <br /><br />
+
+Author: Saksham Sable<br />
+Aspiring Software and Full Stack Developer from India 🇮🇳🎯.
