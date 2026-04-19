@@ -106,7 +106,7 @@
 
 ---
 
-## 🧠 Languages & Tools
+## Languages & Tools
 
 <p align="center">
   
@@ -126,7 +126,7 @@
 
 ---
 
-💻 WORKING ON following Mini-Projects-
+WORKING ON following Mini-Projects -
 </br>
 
 ➡️ To-Do App, Tic-tac-toe game, Login System, Notes App, Weather App, Expense Tracker, Java Student System, File Upload System
@@ -134,7 +134,7 @@
 
 ---
 
-💻🚀 -
+🚀 -
 
 1. Job Portal System
 2. E-Commerce Website
@@ -197,7 +197,7 @@
 
 ---
 
-👀 Visitor Counter
+ Visitor Counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saksham02244&label=Visitors&color=brightgreen&style=for-the-badge" />
