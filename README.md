@@ -109,8 +109,9 @@
 ## 🧠 Languages & Tools
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saksham02244&show_icons=true&theme=tokyonight" />
+  
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham02244&layout=compact&theme=tokyonight" />
+  
 </p>
 
 
